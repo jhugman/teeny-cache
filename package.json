@@ -1,0 +1,23 @@
+{
+  "name": "teeny-cache",
+  "version": "0.0.0",
+  "description": "In memory key-value storage with lazily evaluated values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhugman/teeny-cache.git"
+  },
+  "keywords": [
+    "key-value",
+    "lazy-evaluation"
+  ],
+  "author": "@jhugman",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/jhugman/teeny-cache/issues"
+  },
+  "homepage": "https://github.com/jhugman/teeny-cache"
+}
